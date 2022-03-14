@@ -105,3 +105,6 @@ dist
 
 # DS_Store
 *.DS_Store
+
+# Libre Office Lock files
+*/.~lock.*
